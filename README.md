@@ -18,7 +18,7 @@ Files in the server/src/assessment_answers/ folder:
 The React-related solutions are placed in the frontCode folder.
 
 where 6.jsx , 7.jsx ,8.jsx ,9.jsx, 10.jsx,CountContext.jsx,que9_helper.jsx,que10_helper.jsx represent the question number of assesment , in each file i also provied a question in comment manner , and in below i write my solution  ====
-=====
+==
 
 📝 Each file begins with the question written as a comment at the top.
 
